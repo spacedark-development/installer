@@ -17,7 +17,7 @@ echo "3) Beenden"
 echo ""
 
 # Read user input
-read -p "Wählen Sie eine Option (1 oder 2): " option
+read -p "Wählen Sie eine Option (1, 2 oder 3): " option
 
 # Handle the user input
 case $option in
